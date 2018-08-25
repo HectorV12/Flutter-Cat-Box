@@ -1,4 +1,4 @@
-# animation
+# Flutter animation
 
 A Flutter Animation Example of a Cat in a Box.
 
